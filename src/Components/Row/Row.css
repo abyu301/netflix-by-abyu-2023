@@ -1,0 +1,22 @@
+.row__poster {
+    width: 100%;
+    object-fit: contain;
+    max-height: 100px;
+    transition: transform 450ms;
+    /* imajochu hover sideregu yigolalu, bemin yahill fitinet woyim kes bilewu transition yadrigu yemilewun lemewosen [ke .row__poster:hover lay tetsifuwall]; */
+    margin-right: 10px;
+}
+.row__posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    /* poster imajochu -y axis enidayinikesakes, -x axis scroll enidiyaderigu yaderigachewall */
+}
+.row__posters::-webkit-scrollbar {
+    display: none;
+    /* to hide the scroll bar */
+}
+.row__poster:hover {
+    transform: scale(1.08);
+    /* hover sidereg imajun agulito enidiyatelikilin */
+}
