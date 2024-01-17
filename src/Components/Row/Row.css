@@ -20,3 +20,14 @@
     transform: scale(1.08);
     /* hover sidereg imajun agulito enidiyatelikilin */
 }
+.row__posterLarge {
+    max-height: 250px;
+    /* lelochu "row__poster" enidetekemetewu 100px nw heightachewu; */
+}
+.row__posterLarge:hover {
+    transform: scale(1.09);
+}
+.row {
+    margin-left: 20px;
+    color: white;
+}
