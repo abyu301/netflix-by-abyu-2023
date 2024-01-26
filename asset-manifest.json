@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflix-by-abyu-2023/static/css/main.cc1893b2.css",
+    "main.js": "/netflix-by-abyu-2023/static/js/main.3421cc82.js",
+    "index.html": "/netflix-by-abyu-2023/index.html",
+    "main.cc1893b2.css.map": "/netflix-by-abyu-2023/static/css/main.cc1893b2.css.map",
+    "main.3421cc82.js.map": "/netflix-by-abyu-2023/static/js/main.3421cc82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1893b2.css",
+    "static/js/main.3421cc82.js"
+  ]
+}
